@@ -130,7 +130,7 @@ function updateWhatsappLink(){
         }
     }
 
-    whatsappLink += "%0A" + "Total%0APrice" + finaldollars + "%0A" + finalcents;
+    whatsappLink += "%0A" + "Total%0APrice" + finalDollars + "%0A" + finalCents;
 
 }
 
